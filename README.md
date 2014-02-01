@@ -2,11 +2,11 @@
 ========
 * Author  : [Hom](https://github.com/Hom-Wang)
 * Version : v0.0 設計中...
-* Update  : 2014/01/27
+* Update  : 2014/02/02
 
 Description
 ========
-Camera-MT 是一個 Camera 模組，有彩色與黑白兩個版本，分別採用 MT9V034C12STC 和 MT9V034C12STM ，透過 10bits DCMI 與 SCCB 介面溝通。
+Camera-MT 是一個 Camera 模組，有彩色與黑白兩個版本，分別採用 MT9V034C12STC 和 MT9V034C12STM ，透過 8bits DCMI 與 SCCB 介面溝通。
 
 License
 ========
