@@ -2,7 +2,7 @@
 ========
 * Author  : [Hom](https://github.com/Hom-Wang)
 * Version : v0.0 設計中...
-* Update  : 2014/02/02
+* Update  : 2014/02/12
 
 Description
 ========
@@ -17,6 +17,9 @@ License
 
 Hardware
 ========
+* 控制器　 : MT9V034C12STC / MT9V034C12STM
+* PCB 尺寸 : 30 * 25mm ( Screws M3: 14 * 25mm )
+* 設計軟體 [Altium Designer 14](http://www.altium.com/en/products/altium-designer) ( PcbLib use AD [PcbLib v?](https://github.com/OpenPCB/AltiumDesigner_PcbLibrary) )
 
 Related Documents
 ========
@@ -26,5 +29,7 @@ Related Documents
 View
 ========
 
+
 Schematic
 ========
+<img src="https://lh5.googleusercontent.com/-CuepZtwcx-E/Uvt_tW7E7kI/AAAAAAAAGf4/rCbeWhVxKsA/s800/Camera-MT.png" />
