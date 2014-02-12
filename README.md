@@ -32,4 +32,4 @@ View
 
 Schematic
 ========
-<img src="https://lh5.googleusercontent.com/-CuepZtwcx-E/Uvt_tW7E7kI/AAAAAAAAGf4/rCbeWhVxKsA/s800/Camera-MT.png" />
+<img src="https://lh5.googleusercontent.com/-CuepZtwcx-E/Uvt_tW7E7kI/AAAAAAAAGf4/rCbeWhVxKsA/s1600/Camera-MT.png" />
