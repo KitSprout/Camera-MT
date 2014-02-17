@@ -1,12 +1,12 @@
 [Camera-MT](https://github.com/OpenPCB/Camera-MT)
 ========
 * Author  : [Hom](https://github.com/Hom-Wang)
-* Version : v0.0 設計中...
-* Update  : 2014/02/12
+* Version : v1.0
+* Update  : 2014/02/17
 
 Description
 ========
-Camera-MT 是一個 Camera 模組，有彩色與黑白兩個版本，分別採用 MT9V034C12STC 和 MT9V034C12STM ，透過 8bits DCMI 與 SCCB 介面溝通。
+Camera-MT 是一個 Camera 模組，有彩色與黑白兩個版本，分別採用 MT9V034C12STC 和 MT9V034C12STM ，模組透過 8bits DCMI 與 SCCB 介面作暫存器的讀寫和影像的讀取。
 
 License
 ========
@@ -19,7 +19,7 @@ Hardware
 ========
 * 控制器　 : MT9V034C12STC / MT9V034C12STM
 * PCB 尺寸 : 30 * 25mm ( Screws M3: 14 * 25mm )
-* 設計軟體 [Altium Designer 14](http://www.altium.com/en/products/altium-designer) ( PcbLib use AD [PcbLib v?](https://github.com/OpenPCB/AltiumDesigner_PcbLibrary) )
+* 設計軟體 [Altium Designer 14](http://www.altium.com/en/products/altium-designer) ( PcbLib use AD [PcbLib v0.4](https://github.com/OpenPCB/AltiumDesigner_PcbLibrary/releases/tag/v0.4) )
 
 Related Documents
 ========
@@ -32,4 +32,4 @@ View
 
 Schematic
 ========
-<img src="https://lh5.googleusercontent.com/-CuepZtwcx-E/Uvt_tW7E7kI/AAAAAAAAGf4/rCbeWhVxKsA/s1600/Camera-MT.png" />
+<img src="https://lh4.googleusercontent.com/-f9Ctjxc1un0/UwHXrykr62I/AAAAAAAAGhw/24XMOdx5Kec/s1600/Camera-MT_Sch.png" />
