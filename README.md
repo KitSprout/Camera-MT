@@ -1,8 +1,8 @@
 [Camera-MT](https://github.com/OpenPCB/Camera-MT)
 ========
 * Author  : [Hom](https://github.com/Hom-Wang)
-* Version : v1.0
-* Update  : 2014/02/17
+* Version : v1.2 待送廠製作 ...
+* Update  : 2014/03/12
 
 Description
 ========
@@ -19,7 +19,7 @@ Hardware
 ========
 * 控制器　 : MT9V034C12STC / MT9V034C12STM
 * PCB 尺寸 : 30 * 25mm ( Screws M3: 14 * 25mm )
-* 設計軟體 [Altium Designer 14](http://www.altium.com/en/products/altium-designer) ( PcbLib use AD [PcbLib v0.4](https://github.com/OpenPCB/AltiumDesigner_PcbLibrary/releases/tag/v0.4) )
+* 設計軟體 [Altium Designer 14](http://www.altium.com/en/products/altium-designer) ( PcbLib use AD [PcbLib v0.8](https://github.com/OpenPCB/AltiumDesigner_PcbLibrary/releases/tag/v0.8) )
 
 Related Documents
 ========
@@ -32,4 +32,4 @@ View
 
 Schematic
 ========
-<img src="https://lh4.googleusercontent.com/-f9Ctjxc1un0/UwHXrykr62I/AAAAAAAAGhw/24XMOdx5Kec/s1600/Camera-MT_Sch.png" />
+<img src="https://lh5.googleusercontent.com/-fRBYT1tSFjk/Ux9mBe-QJkI/AAAAAAAAG-k/gahiZ00Gd60/s1600/Camera-MT_v1.2_Sch.png" />
