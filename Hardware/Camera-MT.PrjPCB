@@ -36,7 +36,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Camera-MT__Pcb.PcbDoc
+DocumentPath=Camera-MT_Pcb.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -66,10 +66,6 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-
-[GeneratedDocument1]
-DocumentPath=Output\Design Rule Check - Camera-MT__Pcb.html
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
